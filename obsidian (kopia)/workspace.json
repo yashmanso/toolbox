@@ -1,0 +1,212 @@
+{
+  "main": {
+    "id": "3017a37028180fc7",
+    "type": "split",
+    "children": [
+      {
+        "id": "577853a47f18f702",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fd1dd9233c32827b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1 – Tools, methods, frameworks, or guides/§§ Sustainability Assessment of Startups.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "084e66e0ca105223",
+    "type": "split",
+    "children": [
+      {
+        "id": "956f7ab3716fecdf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1b9c69713efeea10",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c72f7fcf4062994e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#tool",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "2c2e0acaa3d0d734",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "b62614d84bffdf26",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 409.5
+  },
+  "right": {
+    "id": "75ea54b433cf374e",
+    "type": "split",
+    "children": [
+      {
+        "id": "be3de03de8925908",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "57c42f794cfeffc1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "1 – Tools, methods, frameworks, or guides/§§ Sustainability Assessment of Startups.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "108a0a7ee31375b4",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "1 – Tools, methods, frameworks, or guides/§§ Sustainability Assessment of Startups.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "d862f9b2e8fd19ce",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "b27d7b15433f95e3",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "1 – Tools, methods, frameworks, or guides/§§ Sustainability Assessment of Startups.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "publish:Publish changes...": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false,
+      "zk-prefixer:Create new unique note": false,
+      "random-note:Open random note": false,
+      "workspaces:Manage workspace layouts": false
+    }
+  },
+  "active": "fd1dd9233c32827b",
+  "lastOpenFiles": [
+    "1 – Tools, methods, frameworks, or guides/SDG Impact Assessment.md",
+    "Misc (in other languages)/Miscellaneous Resources.md",
+    "0 – Tagging and organization logic/Tag glossary.md",
+    "0 – Tagging and organization logic/_Rationale for the dimensions and introduction of tags.md",
+    "_start here.md",
+    "3 – Tools in Academic Articles and Scientific Reports/Toward a Validated Competence Framework for Sustainable Entrepreneurship.md",
+    "3 – Tools in Academic Articles and Scientific Reports/The Triple Layered Business Model Canvas – A Tool to Design More Sustainable Business Models.md",
+    "3 – Tools in Academic Articles and Scientific Reports/The Sustainable Business Model Pattern Taxonomy – 45 Patterns to Support Sustainability-Oriented Business Model Innovation.md",
+    "3 – Tools in Academic Articles and Scientific Reports/Sustainable by Design – An Organizational Design Tool for Sustainable Business Model Innovation.md",
+    "3 – Tools in Academic Articles and Scientific Reports/Sustainability Impact Assessment of New Ventures – An Emerging Field of Research.md",
+    "3 – Tools in Academic Articles and Scientific Reports/Manufacturing SMEs Doing it for Themselves – Developing, Testing and Piloting an Online Sustainability and Eco-Innovation Toolkit for SMEs.md",
+    "3 – Tools in Academic Articles and Scientific Reports/Key Competencies in Sustainability – A Reference Framework for Academic Program Development.md",
+    "3 – Tools in Academic Articles and Scientific Reports/Evolution of Design for Sustainability – From Product Design to Design for System Innovations and Transitions.md",
+    "3 – Tools in Academic Articles and Scientific Reports/Design Thinking for Practice-Based Intervention – Co-Producing the Change Points Toolkit to Unlock (Un)Sustainable Practices.md",
+    "3 – Tools in Academic Articles and Scientific Reports/Creating and Capturing Value Through Sustainability – The Sustainable Value Analysis Tool.md",
+    "3 – Tools in Academic Articles and Scientific Reports/Creating and Capturing Value Through Sustainability – The Sustainable Value Analysis Tool.md",
+    "3 – Tools in Academic Articles and Scientific Reports/Business Model Innovation for Circular Economy and Sustainability – A Review of Approaches.md",
+    "3 – Tools in Academic Articles and Scientific Reports/Building Sustainable Value Propositions for Multiple Stakeholders – A Practical Tool.md",
+    "3 – Tools in Academic Articles and Scientific Reports/A Tool for Collaborative Circular Proposition Design.md",
+    "3 – Tools in Academic Articles and Scientific Reports/A Literature and Practice Review to Develop Sustainable Business Model Archetypes.md",
+    "3 – Tools in Academic Articles and Scientific Reports/A Framework for Strategic Sustainable Development.md",
+    "2 – Collections, Compendiums, or Kits/A collection of Non-formal Education Methods for Sustainable Entrepreneurship.md",
+    "1 – Tools, methods, frameworks, or guides/Sustainable Business Model Canvas.md",
+    "1 – Tools, methods, frameworks, or guides/Resource Wheel.md",
+    "2 – Collections, Compendiums, or Kits/Sustainability Plan 101.md",
+    "1 – Tools, methods, frameworks, or guides/Project Resilience Review.md",
+    "Files/Sustainable Tools _ Circular Design.jpeg",
+    "Files/Pasted image 20240304151658.png",
+    "Files/Sustainability SWOT Analysis.pdf",
+    "Files/5 - Sustainability Balanced Scorecard.pdf",
+    "Files/Pasted image 20240304151715.png",
+    "Files/2 - SBMC.pdf",
+    "Files/Pasted image 20240301155631.png",
+    "Files/Pasted image 20240301155443.png",
+    "Files/Sustainability+Canvases_v1.1.pdf",
+    "Files/1 - Impact Canvas.pdf",
+    "Files/SHIFT.jpeg",
+    "Files/Pasted image 20240228163920.png",
+    "Files/Methods _ Sustainability Guide.jpeg",
+    "Files/Tools - Ecodesign Toolkit.jpeg",
+    "Files/Pasted image 20240228143033.png",
+    "Files/Pasted image 20240228143033.png.sb-897a286a-iFzvzr",
+    "Untitled.canvas",
+    "0 – Tagging and organization logic",
+    "Files/DIN-SPEC-90051-1-Application-tool_EN_final.pdf",
+    "Untitled 1.canvas",
+    "Files/SDG Impact Assessment Tool - Guide 1-0_final_ver02_mini.pdf",
+    "Files/IE Sustainability Worksheet_Norrman.pdf"
+  ]
+}

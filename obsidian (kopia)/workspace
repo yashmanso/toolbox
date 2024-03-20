@@ -1,0 +1,143 @@
+{
+  "main": {
+    "id": "3017a37028180fc7",
+    "type": "split",
+    "children": [
+      {
+        "id": "0692c9506d0eacf6",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "1 - tools and frameworks/(EDIT NEEDED) support pack for D&I in SEI.md",
+            "mode": "preview",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "084e66e0ca105223",
+    "type": "split",
+    "children": [
+      {
+        "id": "956f7ab3716fecdf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1b9c69713efeea10",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "c72f7fcf4062994e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#article",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "2c2e0acaa3d0d734",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 346
+  },
+  "right": {
+    "id": "75ea54b433cf374e",
+    "type": "split",
+    "children": [
+      {
+        "id": "be3de03de8925908",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "57c42f794cfeffc1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "1 - tools and frameworks/(EDIT NEEDED) support pack for D&I in SEI.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "108a0a7ee31375b4",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "1 - tools and frameworks/(EDIT NEEDED) support pack for D&I in SEI.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "d862f9b2e8fd19ce",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "1ac8b942fcd673f0",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "1 - tools and frameworks/(EDIT NEEDED) support pack for D&I in SEI.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "0692c9506d0eacf6",
+  "lastOpenFiles": [
+    "1 - tools and frameworks/(EDIT NEEDED) STRATEGIC SUSTAINABALE DEVELOPMENT.md",
+    "1 - tools and frameworks/(EDIT NEEDED) SDG impact assessment tool.md",
+    "1 - tools and frameworks/(EDIT NEEDED) RESPONSIBLE TECH.md",
+    "1 - tools and frameworks/(EDIT NEEDED) Impact planning canvas.md",
+    "1 - tools and frameworks/(EDIT NEEDED) Business Planning for Biomimicry.md",
+    "1 - tools and frameworks/(EDIT NEEDED) A framework for strategic sustainable development.md",
+    "New tags for the database.md",
+    "Concept for training alumni.md",
+    "1 - tools and frameworks/the sustainability impact canvas.md",
+    "3 - collections/business models and business design.md"
+  ]
+}
